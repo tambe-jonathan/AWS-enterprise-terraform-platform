@@ -294,17 +294,8 @@ Watch the full Terraform deployment in action:
 |--------|-----------|
 | **VPC** | <img src="./docs/screenshots/vpc.png" width="300"/> |
 | **Subnets** | <img src="./docs/screenshots/subnets.png" width="300"/> |
-| **EC2 (Auto Scaling)** | <img src="./docs/screenshots/ec2.png" width="300"/> |
+| **EC2 (Auto Scaling)** | <img src="./docs/screenshots/auto-scaling.png" width="300"/> |
 | **Load Balancer (ALB)** | <img src="./docs/screenshots/alb.png" width="300"/> |
-
----
-
-##  Terraform Execution
-
-| Step | Screenshot |
-|------|-----------|
-| **Plan Output** | <img src="./docs/screenshots/plan.png" width="350"/> |
-| **Apply Output** | <img src="./docs/screenshots/apply.png" width="350"/> |
 
 ---
 
