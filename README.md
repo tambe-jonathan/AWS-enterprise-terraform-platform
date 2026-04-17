@@ -1,6 +1,6 @@
 
 #  AWS Enterprise Terraform Platform
-Built a production-ready AWS infrastructure platform using Terraform, enabling automated, scalable, and repeatable deployments. Reduced manual provisioning complexity by implementing modular infrastructure components (VPC, ALB, ASG, security) and centralized remote state management. Demonstrates real-world DevOps workflows, infrastructure lifecycle management, and cloud best practices.
+This project demonstrates the design and deployment of a modular, enterprise-grade AWS infrastructure using Terraform. It includes a multi-AZ VPC, public and private subnets, security groups, an internet-facing Application Load Balancer, and an Auto Scaling Group for high availability. The system leverages S3 for remote state storage and DynamoDB for state locking, ensuring consistency and collaboration. The architecture is structured to mirror real-world DevOps environments, emphasizing scalability, maintainability, and Infrastructure as Code best practices.
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws)
