@@ -13,7 +13,7 @@ This project demonstrates the design and deployment of a modular, enterprise-gra
 
  *High-level architecture of the deployed infrastructure*
 
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](./docs/screenshots/architecture.png)
 
 > The system deploys a highly available web infrastructure using AWS services across multiple Availability Zones.
 
