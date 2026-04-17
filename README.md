@@ -272,18 +272,6 @@ Type:
 yes
 ```
 
-  #  Deployment Demo
-
-Watch the full Terraform deployment in action:
-
-👉 [Click to Watch Demo](https://your-video-link-here)
-
-> This demo shows:
-> - terraform init
-> - terraform plan
-> - terraform apply
-> - Successful infrastructure provisioning
-
 ---
 
 #  Deployment Evidence
